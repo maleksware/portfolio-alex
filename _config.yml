@@ -20,9 +20,9 @@
 
 title: Alex Maksimov
 description: ""
-logo: /assets/profile-photo.jpg
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+logo: assets/profile-photo.jpg
+baseurl: "/portfolio-alex/" # the subpath of your site, e.g. /blog
+url: "https://ASMaksimov2007.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ASMaksimov2007
 
 # Build settings
