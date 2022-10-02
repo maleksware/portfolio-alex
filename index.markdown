@@ -76,7 +76,6 @@ I have some another cool projects written in Python, some of them are on my [Git
 - Gymnastics (2 years)
 
 ![Playing soccer](assets/soccer.png)
-![Playing volleyball](assets/volleyball.png)
 
 # Social achievements
 
