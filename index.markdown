@@ -62,7 +62,7 @@ For the last 2 years I was practicing competitive programming. According to [Cod
 
 I have some another cool projects written in Python, some of them are on my [GitHub](https://github.com/https://github.com/ASMaksimov2007).
 
-![Programming summer camp](assets/camp.png)
+![Programming summer camp](assets/camp.jpg)
 
 # Sports achievements
 
