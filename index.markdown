@@ -13,10 +13,8 @@ I am currently in 9th grade according to Russian education model. This year we s
 
 - Algebra
   - Function properties such as unimodalism, even/odd functions etc;
-  - Plotting function graphs (advanced cases);
   - Systems of equations and inequalities, including multiple variables cases;
   - Series and limits;
-  - Trigonometry function properties;
 - Geometry
   - Geometrical trigonometry applications;
   - Advanced similarity theorems and problems (e.g. homotetia);
@@ -28,9 +26,6 @@ I am currently in 9th grade according to Russian education model. This year we s
   - Movement, velocity;
   - Waves, sound, vibrations;
   - Magnetism, induction, elecromagnetic field properties;
-  - Spectres, colors, light disperstion;
-  - Particle structure;
-  - Nuclear and thermonuclear reactions;
 - Other subjects
   - Chemistry
   - Literature
@@ -67,6 +62,8 @@ For the last 2 years I was practicing competitive programming. According to [Cod
 
 I have some another cool projects written in Python, some of them are on my [GitHub](https://github.com/https://github.com/ASMaksimov2007).
 
+![Programming summer camp](assets/camp.png)
+
 # Sports achievements
 
 - Soccer (4 years, school team captain, 2-time district tournament champions)
@@ -77,6 +74,9 @@ I have some another cool projects written in Python, some of them are on my [Git
 - Volleyball (2 years)
 - Swimming (2 years)
 - Gymnastics (2 years)
+
+![Playing soccer](assets/soccer.png)
+![Playing volleyball](assets/volleyball.png)
 
 # Social achievements
 
