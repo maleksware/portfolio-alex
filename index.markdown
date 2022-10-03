@@ -5,36 +5,37 @@ title: Alex Maksimov
 
 # General information
 
-My name is Aleksander Maksimov, I'm 15 years old. I am a competitive programmer and a soccer player.
+My name is Aleksander Maksimov, I'm 15 years old. I am a competitive programmer and a soccer player. I study in a Russian school with advanced English, Physics, Mathematics and Computer Science courses.
 
 # Current learning curve and known material
 
 I am currently in 9th grade according to Russian education model. This year we study:
 
-- Algebra
+- Algebra (4 hours/week)
   - Function properties such as unimodalism, even/odd functions etc;
   - Systems of equations and inequalities, including multiple variables cases;
   - Series and limits;
-- Geometry
+- Geometry (4 hours/week)
   - Geometrical trigonometry applications;
   - Advanced similarity theorems and problems (e.g. homotetia);
   - Basics of linear algebra (vectors, vector operations);
-- History
-  - Russian history (1800 - 1900)
-  - World history (1800 - 1900)
-- Physics
+- Probability theory and statistics (1 hour/week)
+  - Sets, graphs, quantors, data metrics, probability
+- Physics (4 times/week)
   - Movement, velocity;
   - Waves, sound, vibrations;
   - Magnetism, induction, elecromagnetic field properties;
 - Other subjects
+  - Computer Science (5 hours/week)
+  - English (5 hours/week)
   - Chemistry
   - Literature
   - Russian
-  - English
   - Geography
   - PE
   - Knowledge theory (logic and philosophy)
   - Biology
+  - History
 
 # School awards and marks
 
@@ -44,6 +45,8 @@ All my trimester and year marks were 5s after each of the 8 completed education 
 
 I was nominated for a "School Star" award four times in a row, from 5th to 8th grade. It is an award that is given to three people in a form. One form is about 30 students.
 
+Have successfully completed several school projects, including [school museum database viewer](http://project.gym1505.ru/node/27354) and Android applications for education.
+
 # Competitions and awards
 
 - City stage in All-Russian Olympiad in Informatics - school's top 2, city's top 500
@@ -51,6 +54,7 @@ I was nominated for a "School Star" award four times in a row, from 5th to 8th g
 - Different City stage diplomas in All-Russian olympiad - English, Russian, Biology
 - Selected for education in 4 summer schools, each one with entry exam. Successfully completed all these schools with excellent and good marks.
 - Silver medalist (top-2 Moscow) in Moscow Team Robot Olympiad (2018)
+- Dancing (several prizes in competitions (2014-2018))
 
 # A little about my programming background
 
@@ -68,12 +72,14 @@ I have some another cool projects written in Python, some of them are on my [Git
 
 - Soccer (4 years, school team captain, 2-time district tournament champions)
 - Chess (2 years, [my Lichess profile](https://lichess.org/@/Alex_Maksimov))
-- Orienteering (2 years)
+- Orienteering (2 years, 2nd place in Xmas 5 days Open category (Sydney, 2018))
 - Dancing (4 years)
 - Aeromodelling (7 years, 2-time Moscow champion, one silver and 3 bronzes in different categories)
 - Volleyball (2 years)
 - Swimming (2 years)
 - Gymnastics (2 years)
+- Table tennis (5 years, camp champion (adults) (2022))
+- Speedcubing
 
 ![Playing soccer](assets/soccer.png)
 
@@ -84,3 +90,15 @@ I have some another cool projects written in Python, some of them are on my [Git
 - Guide in a local aircraft piloting club
 - Helped with local social projects and scholar social initiatives
 - Guitarist
+
+# Interests and motivation
+
+I'm always interested in productive learning combined with comfortable and collaborative atmosphere. Besides education I am ready to join sports teams and participate in competitions and olympiads.
+
+Speaking of education, I find myself pretty easy to teach and I'm always glad to learn something new.
+
+# Diplomas and awards links (Google Drive)
+
+https://drive.google.com/drive/folders/1NghPTtf_YX9_yprZteO3c3ksPWViyXVH?usp=sharing
+
+The folders are named accordingly.
