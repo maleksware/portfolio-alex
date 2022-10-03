@@ -99,6 +99,6 @@ Speaking of education, I find myself pretty easy to teach and I'm always glad to
 
 # Diplomas and awards links (Google Drive)
 
-https://drive.google.com/drive/folders/1NghPTtf_YX9_yprZteO3c3ksPWViyXVH?usp=sharing
+[Google Drive folder link](https://drive.google.com/drive/folders/1NghPTtf_YX9_yprZteO3c3ksPWViyXVH?usp=sharing)
 
 The folders are named accordingly.
