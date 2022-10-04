@@ -28,20 +28,24 @@ I am currently in 9th grade according to Russian education model. This year we s
 - Other subjects
   - Computer Science (5 hours/week)
   - English (5 hours/week)
-  - Chemistry
-  - Literature
-  - Russian
-  - Geography
-  - PE
-  - Knowledge theory (logic and philosophy)
-  - Biology
-  - History
+  - Chemistry (2 hours/week)
+  - Literature (3 hours/week)
+  - Russian (3 hours/week)
+  - Geography (2 hours/week)
+  - PE (1 hour/week)
+  - Knowledge theory (logic and philosophy) (1 hour/week)
+  - Biology (2 hours/week)
+  - History (2 hours/week)
+  - Engineering workshop (2 hours/week)
+  - Competitive programming (2 hours/week)
 
 # School awards and marks
 
 Russian schools use 5-mark system from 1 to 5, where 1 means "very bad" and 5 means "excellent".
 
-All my trimester and year marks were 5s after each of the 8 completed education years.
+All my trimester and year marks [were 5s](https://drive.google.com/drive/folders/1m2GbqXmX517I3rUh3la7o9sScr8xQEB_?usp=sharing) after each of the 8 completed education years.
+
+I have several [excellent learner diplomas](https://drive.google.com/drive/folders/14EnU_PFeORvrmkHErXvFSKSEERJa6v94?usp=sharing).
 
 I was nominated for a "School Star" award four times in a row, from 5th to 8th grade. It is an award that is given to three people in a form. One form is about 30 students.
 
@@ -49,12 +53,13 @@ Have successfully completed several school projects, including [school museum da
 
 # Competitions and awards
 
-- City stage in All-Russian Olympiad in Informatics - school's top 2, city's top 500
-- 2nd stage diploma in Moscow Olympiad in Informatics - Russia's top 50 in my age group
-- Different City stage diplomas in All-Russian olympiad - English, Russian, Biology
-- Selected for education in 4 summer schools, each one with entry exam. Successfully completed all these schools with excellent and good marks.
-- Silver medalist (top-2 Moscow) in Moscow Team Robot Olympiad (2018)
-- Dancing (several prizes in competitions (2014-2018))
+- City stage in All-Russian Olympiad in Informatics - school's top 2, city's top 500 [results link (id 28202003)](https://reg.olimpiada.ru/register/russia-olympiad-iikt-2021-2-9-protocol/olympiad-protocol-static)
+- 2nd stage diploma in Moscow Olympiad in Informatics - Russia's top 50 in my age group [results link (place 44, 3rd table)](https://mos-inf.olimpiada.ru/mosh6_9_2022_results)
+- Different City and School stage diplomas in All-Russian olympiad - English, Russian, Informatics [diplomas link (over 40 gold and silver places)](https://drive.google.com/drive/folders/1ODXVgN8JgBZGHTL4HZQVdmvixL4aVE9M?usp=sharing)
+- Selected for education in 4 summer schools, each one with entry exam. Successfully completed all these schools with excellent and good marks [certificates link](https://drive.google.com/drive/folders/1p3IYEKx9pCvk0zi1iPq8FTU_7vdFhnOQ?usp=sharing)
+- Silver medalist (top-2 Moscow) in Moscow Team Robot Olympiad (2018) [diploma link](https://drive.google.com/file/d/121XWJQMiNRi_vq0kyGHm0iF7LpUK1hf_/view?usp=sharing)
+- Several Robogames competition wins (2016-2018) [certificates link](https://drive.google.com/drive/folders/18naUXX4_qHGjcumllGSofMB3gbwJbUQ9?usp=sharing)
+- Dancing (several prizes in competitions (2014-2018)) [diplomas link](https://drive.google.com/drive/folders/1TBD9gxvovKMY5NK2izPBbW8MKCvqFasW?usp=sharing)
 
 # A little about my programming background
 
