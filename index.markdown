@@ -69,7 +69,7 @@ As of programming languages, I prefer Python and C++. I can teach others Scratch
 
 For the last 2 years I was practicing competitive programming. According to [Codeforces](https://codeforces.com/profile/hurricanecoder?locale=en), I am currently in top-500 Moscow.
 
-I have some another cool projects written in Python, some of them are on my [GitHub](https://github.com/https://github.com/ASMaksimov2007).
+I have some another cool projects written in Python, some of them are on my [GitHub](https://github.com/ASMaksimov2007).
 
 ![Programming summer camp](assets/camp.JPG)
 
