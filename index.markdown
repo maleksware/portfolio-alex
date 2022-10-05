@@ -74,8 +74,9 @@ I regularly take part in school olympiads in various subjects
   - City stage in All-Russian Olympiad in Informatics - school's top 2, city's top 500 [results link (id 28202003)](https://reg.olimpiada.ru/register/russia-olympiad-iikt-2021-2-9-protocol/olympiad-protocol-static)
   - 2nd stage diploma in Moscow Olympiad in Informatics - Russia's top 50 in my age group [results link (place 44, 3rd table)](https://mos-inf.olimpiada.ru/mosh6_9_2022_results)
 - Robotics
-  - Silver medalist (top-2 Moscow) in Moscow Team Robot Olympiad (2018) [diploma link](https://drive.google.com/file/d/121XWJQMiNRi_vq0kyGHm0iF7LpUK1hf_/view?usp=sharing)
-  - Several Robogames competition wins (2016-2018) [certificates link](https://drive.google.com/drive/folders/18naUXX4_qHGjcumllGSofMB3gbwJbUQ9?usp=sharing)
+  - Silver medalist (top-2 Moscow) in Moscow Team Robot Olympiad (2018)
+  - Several Robogames competition wins (2016-2018)
+
 - Mathematics
 - English language
 - Russian language
@@ -104,6 +105,8 @@ I have been selected to 4 different summer school courses of olympiad programmin
 
 - School A with link
 - School B with link
+- School C with link
+- School D with link
 
 {% assign filter = "coding_camp" %}
 {% for award in site.data.awards %}{% if filter contains award.topic %}{% include pic.html %}{% endif %}{% endfor %}
