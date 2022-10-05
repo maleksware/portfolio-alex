@@ -22,6 +22,9 @@ Our school uses [Russian 5-mark system](https://en.wikipedia.org/wiki/Academic_g
 
 I have **top marks** in **all subjects** after each term in **all 8 completed years** of school.
 
+All my trimester and year marks [were 5s](https://drive.google.com/drive/folders/1m2GbqXmX517I3rUh3la7o9sScr8xQEB_?usp=sharing) after each of the 8 completed education years.
+
+
 I was nominated for a **"School Star" award** four times in a row, from 5th to 8th grade. It is an award given to three people in a class consisting of about 30 students.
 
 I have successfully completed several school projects, including [school museum database viewer](http://project.gym1505.ru/node/27354) and Android applications for education.
@@ -47,19 +50,24 @@ I have successfully completed several school projects, including [school museum 
 - Other subjects
   - Computer Science (*5 hours/week*)
   - English (*5 hours/week*)
-  - Chemistry
-  - Literature
-  - Russian language
-  - Geography
-  - PE
-  - Knowledge theory (logic and philosophy)
-  - Biology
-  - Russian and world history
+  - Chemistry (*2 hours/week*)
+  - Literature (*3 hours/week*)
+  - Russian (*3 hours/week*)
+  - Geography (*2 hours/week*)
+  - PE (*1 hour/week*)
+  - Knowledge theory, logic and philosophy (*1 hour/week*)
+  - Biology (*2 hours/week*)
+  - History (*2 hours/week*)
+  - Engineering workshop (*2 hours/week*)
+  - Competitive programming (*2 hours/week*)
 
 ### School awards and diplomas:
 
 {% assign filter = "school school_star projects" %}
 {% for award in site.data.awards %}{% if filter contains award.topic %}{% include pic.html %}{% endif %}{% endfor %}
+
+I have several [excellent learner diplomas](https://drive.google.com/drive/folders/14EnU_PFeORvrmkHErXvFSKSEERJa6v94?usp=sharing).
+
 
 # Olympiads
 
@@ -78,15 +86,23 @@ I regularly take part in school olympiads in various subjects
 {% assign filter = "olympiads" %}
 {% for award in site.data.awards %}{% if filter contains award.topic %}{% include pic.html %}{% endif %}{% endfor %}
 
+- City stage in All-Russian Olympiad in Informatics - school's top 2, city's top 500 [results link (id 28202003)](https://reg.olimpiada.ru/register/russia-olympiad-iikt-2021-2-9-protocol/olympiad-protocol-static)
+- 2nd stage diploma in Moscow Olympiad in Informatics - Russia's top 50 in my age group [results link (place 44, 3rd table)](https://mos-inf.olimpiada.ru/mosh6_9_2022_results)
+- Different City and School stage diplomas in All-Russian olympiad - English, Russian, Informatics [diplomas link (over 40 gold and silver places)](https://drive.google.com/drive/folders/1ODXVgN8JgBZGHTL4HZQVdmvixL4aVE9M?usp=sharing)
+- Selected for education in 4 summer schools, each one with entry exam. Successfully completed all these schools with excellent and good marks [certificates link](https://drive.google.com/drive/folders/1p3IYEKx9pCvk0zi1iPq8FTU_7vdFhnOQ?usp=sharing)
+- Silver medalist (top-2 Moscow) in Moscow Team Robot Olympiad (2018) [diploma link](https://drive.google.com/file/d/121XWJQMiNRi_vq0kyGHm0iF7LpUK1hf_/view?usp=sharing)
+- Several Robogames competition wins (2016-2018) [certificates link](https://drive.google.com/drive/folders/18naUXX4_qHGjcumllGSofMB3gbwJbUQ9?usp=sharing)
+- Dancing (several prizes in competitions (2014-2018)) [diplomas link](https://drive.google.com/drive/folders/1TBD9gxvovKMY5NK2izPBbW8MKCvqFasW?usp=sharing)
+
 # Competitive programming
 
-For the last 2 years I was practicing competitive programming. According to [Codeforces](https://codeforces.com/profile/hurricanecoder), I am currently in top-500 Moscow.
+For the last 2 years I was practicing competitive programming. According to [Codeforces](https://codeforces.com/profile/hurricanecoder?locale=en), I am currently in top-500 Moscow.
 
 Of programming languages I prefer Python and C++. I can teach others Scratch and LEGO Mindstorms, including advanced algorithms.
 
 I am familiar with many microcontrollers, such as Arduino and Raspberry Pi. I've made a local system tesing server using Fedora OS.
 
-I have some cool projects written in Python, some of them are on my [GitHub](https://github.com/https://github.com/ASMaksimov2007).
+I have some another cool projects written in Python, some of them are on my [GitHub](https://github.com/ASMaksimov2007).
 
 ![Programming summer camp](assets/camp.JPG)
 ### Programming awards and diplomas:
