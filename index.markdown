@@ -13,7 +13,7 @@ I am currently in **9th grade** in [Russian school system](https://en.wikipedia.
 
 I find myself pretty easy to teach and I'm always glad to learn something new.
 
-I'm always interested in productive learning combined with comfortable and collaborative atmosphere. 
+I'm always interested in productive learning combined with comfortable and collaborative atmosphere.
 Besides education I enjoy playing team sports and participate in competitions and olympiads.
 
 ### School performance and grades:
@@ -103,10 +103,10 @@ I have some another cool projects written in Python, some of them are on my [Git
 
 I have been selected to 4 different summer school courses of olympiad programming in 2022, each one with entry exam. I successfully completed all these schools with excellent and good marks.
 
-- School A with link
-- School B with link
-- School C with link
-- School D with link
+- [Ministry of Education camp for competitive programming](https://inf.mosolymp.ru/)
+- [MIPT University summer camp](https://it-edu.com/mipt-school/)
+- [NlogN camp](https://nlogn.info/camp)
+- [SIS (Summer Informatics School)](https://lksh.ru/)
 
 {% assign filter = "coding_camp" %}
 {% for award in site.data.awards %}{% if filter contains award.topic %}{% include pic.html %}{% endif %}{% endfor %}
