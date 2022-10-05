@@ -22,6 +22,32 @@ Our school uses [Russian 5-mark system](https://en.wikipedia.org/wiki/Academic_g
 
 I have **top marks** in **all subjects** after each term in **all 8 completed years** of school.
 
+| Subject                           | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 |
+|-----------------------------------|------|------|------|------|------|------|------|------|
+| Russian                           |      | 5    | 5    | 5    | 5    | 5    | 5    | 5    |
+| Literature                        |      | 5    | 5    | 5    | 5    | 5    | 5    | 5    |
+| Maths                             |      | 5    | 5    | 5    | 5    | 5    |      |      |
+| Algebra                           |      |      |      |      |      |      | 5    | 5    |
+| Geometry                          |      |      |      |      |      |      | 5    | 5    |
+| Informatics                       |      | 5    | 5    | 5    | 5    | 5    | 5    | 5    |
+| World history                     |      |      |      |      | 5    | 5    | 5    | 5    |
+| Social science                    |      |      |      |      |      |      | 5    | 5    |
+| Geography                         |      |      |      |      | 5    | 5    | 5    | 5    |
+| Biology                           |      |      |      |      |      | 5    | 5    | 5    |
+| Physics                           |      |      |      |      |      |      | 5    | 5    |
+| Chemistry                         |      |      |      |      |      |      | 5    | 5    |
+| English                           |      | 5    | 5    | 5    | 5    | 5    | 5    | 5    |
+| Arts                              |      | 5    | 5    | 5    | 5    | 5    |      |      |
+| Music                             |      | 5    | 5    | 5    | 5    | 5    |      |      |
+| PE                                |      | 5    | 5    | 5    | 5    | 5    | 5    | 5    |
+| Nature and the World              |      | 5    | 5    | 5    |      |      |      |      |
+| Choreography                      |      | 5    | 5    | 5    |      |      |      |      |
+| Natural sciences                  |      |      |      |      | 5    | 5    |      |      |
+| French                            |      |      |      |      |      | 5    | 5    | 5    |
+| Life safety                       |      |      |      |      |      |      | 5    |      |
+| World arts history                |      |      |      |      |      |      | 5    |      |
+| Probability theory and statistics |      |      |      |      |      |      | 5    | 5    |
+
 I was nominated for a **"School Star" award** four times in a row, from 5th to 8th grade. It is an award given to three people in a class consisting of about 30 students.
 
 I have successfully completed several school projects, including [school museum database viewer](http://project.gym1505.ru/node/27354) and Android applications for education.
