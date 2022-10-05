@@ -66,7 +66,7 @@ I have successfully completed several school projects, including [school museum 
   - Basics of linear algebra (vectors, vector operations);
 - Probability theory and statistics (*1 hour/week*)
   - Sets, graphs, quantors, data metrics, probability
-- Physics (*4 times/week*)
+- Physics (*4 hours/week*)
   - Movement, velocity;
   - Waves, sound, vibrations;
   - Magnetism, induction, elecromagnetic field properties;
@@ -90,7 +90,6 @@ Including transcript for years 2015-2022 and two "*Excellent student*" diplomas.
 
 {% assign filter = "grades school school_star projects" %}
 {% for award in site.data.awards %}{% if filter contains award.topic %}{% include pic.html %}{% endif %}{% endfor %}
-
 
 # Olympiads
 
@@ -138,6 +137,7 @@ I have been selected to 4 different summer school courses of olympiad programmin
 {% for award in site.data.awards %}{% if filter contains award.topic %}{% include pic.html %}{% endif %}{% endfor %}
 
 ![Programming summer camp](assets/camp.JPG)
+
 # Sports
 
 - Soccer (4 years, school team captain, 2-time district tournament champions)
@@ -156,7 +156,6 @@ I have been selected to 4 different summer school courses of olympiad programmin
 {% assign filter = "sports dancing aeromodelling" %}
 {% for award in site.data.awards %}{% if filter contains award.topic %}{% include pic.html %}{% endif %}{% endfor %}
 
-<!-- ![Playing soccer](assets/soccer.png) -->
 
 # Leadership and hobbies
 
