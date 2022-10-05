@@ -16,14 +16,11 @@ I find myself pretty easy to teach and I'm always glad to learn something new.
 I'm always interested in productive learning combined with comfortable and collaborative atmosphere. 
 Besides education I enjoy playing team sports and participate in competitions and olympiads.
 
-### School grades and reports:
+### School performance and grades:
 
 Our school uses [Russian 5-mark system](https://en.wikipedia.org/wiki/Academic_grading_in_Russia) where 5 denotes "excellent".
 
 I have **top marks** in **all subjects** after each term in **all 8 completed years** of school.
-
-All my trimester and year marks [were 5s](https://drive.google.com/drive/folders/1m2GbqXmX517I3rUh3la7o9sScr8xQEB_?usp=sharing) after each of the 8 completed education years.
-
 
 I was nominated for a **"School Star" award** four times in a row, from 5th to 8th grade. It is an award given to three people in a class consisting of about 30 students.
 
@@ -63,10 +60,10 @@ I have successfully completed several school projects, including [school museum 
 
 ### School awards and diplomas:
 
-{% assign filter = "school school_star projects" %}
-{% for award in site.data.awards %}{% if filter contains award.topic %}{% include pic.html %}{% endif %}{% endfor %}
+Including transcript for years 2015-2022 and two "*Excellent student*" diplomas.
 
-I have several [excellent learner diplomas](https://drive.google.com/drive/folders/14EnU_PFeORvrmkHErXvFSKSEERJa6v94?usp=sharing).
+{% assign filter = "grades school school_star projects" %}
+{% for award in site.data.awards %}{% if filter contains award.topic %}{% include pic.html %}{% endif %}{% endfor %}
 
 
 # Olympiads
@@ -74,8 +71,11 @@ I have several [excellent learner diplomas](https://drive.google.com/drive/folde
 I regularly take part in school olympiads in various subjects
 
 - Informatics
-  - top 2 in school, top 500 in Moscow in *All-Russian Olympiad in Informatics*
-  - 2nd stage diploma in *Moscow Olympiad in Informatics* (top 50 in my age group in Russia)
+  - City stage in All-Russian Olympiad in Informatics - school's top 2, city's top 500 [results link (id 28202003)](https://reg.olimpiada.ru/register/russia-olympiad-iikt-2021-2-9-protocol/olympiad-protocol-static)
+  - 2nd stage diploma in Moscow Olympiad in Informatics - Russia's top 50 in my age group [results link (place 44, 3rd table)](https://mos-inf.olimpiada.ru/mosh6_9_2022_results)
+- Robotics
+  - Silver medalist (top-2 Moscow) in Moscow Team Robot Olympiad (2018) [diploma link](https://drive.google.com/file/d/121XWJQMiNRi_vq0kyGHm0iF7LpUK1hf_/view?usp=sharing)
+  - Several Robogames competition wins (2016-2018) [certificates link](https://drive.google.com/drive/folders/18naUXX4_qHGjcumllGSofMB3gbwJbUQ9?usp=sharing)
 - Mathematics
 - English language
 - Russian language
@@ -83,16 +83,10 @@ I regularly take part in school olympiads in various subjects
 
 ### Olympiad awards and diplomas:
 
-{% assign filter = "olympiads" %}
-{% for award in site.data.awards %}{% if filter contains award.topic %}{% include pic.html %}{% endif %}{% endfor %}
+In different City and School stages in All-Russian olympiad I received over 40 gold and silver places.
 
-- City stage in All-Russian Olympiad in Informatics - school's top 2, city's top 500 [results link (id 28202003)](https://reg.olimpiada.ru/register/russia-olympiad-iikt-2021-2-9-protocol/olympiad-protocol-static)
-- 2nd stage diploma in Moscow Olympiad in Informatics - Russia's top 50 in my age group [results link (place 44, 3rd table)](https://mos-inf.olimpiada.ru/mosh6_9_2022_results)
-- Different City and School stage diplomas in All-Russian olympiad - English, Russian, Informatics [diplomas link (over 40 gold and silver places)](https://drive.google.com/drive/folders/1ODXVgN8JgBZGHTL4HZQVdmvixL4aVE9M?usp=sharing)
-- Selected for education in 4 summer schools, each one with entry exam. Successfully completed all these schools with excellent and good marks [certificates link](https://drive.google.com/drive/folders/1p3IYEKx9pCvk0zi1iPq8FTU_7vdFhnOQ?usp=sharing)
-- Silver medalist (top-2 Moscow) in Moscow Team Robot Olympiad (2018) [diploma link](https://drive.google.com/file/d/121XWJQMiNRi_vq0kyGHm0iF7LpUK1hf_/view?usp=sharing)
-- Several Robogames competition wins (2016-2018) [certificates link](https://drive.google.com/drive/folders/18naUXX4_qHGjcumllGSofMB3gbwJbUQ9?usp=sharing)
-- Dancing (several prizes in competitions (2014-2018)) [diplomas link](https://drive.google.com/drive/folders/1TBD9gxvovKMY5NK2izPBbW8MKCvqFasW?usp=sharing)
+{% assign filter = "olympiads robotics" %}
+{% for award in site.data.awards %}{% if filter contains award.topic %}{% include pic.html %}{% endif %}{% endfor %}
 
 # Competitive programming
 
@@ -104,20 +98,17 @@ I am familiar with many microcontrollers, such as Arduino and Raspberry Pi. I've
 
 I have some another cool projects written in Python, some of them are on my [GitHub](https://github.com/ASMaksimov2007).
 
-![Programming summer camp](assets/camp.JPG)
 ### Programming awards and diplomas:
 
-- I have been selected to 4 different summer school courses of olympiad programming in 2022, each one with entry exam. I successfully completed all these schools with excellent and good marks.
+I have been selected to 4 different summer school courses of olympiad programming in 2022, each one with entry exam. I successfully completed all these schools with excellent and good marks.
 
-  - School A with link
-  - School B with link
+- School A with link
+- School B with link
 
-- I am silver medalist (top-2 Moscow) in Moscow Team Robot Olympiad in 2018
-
-{% assign filter = "robotics" %}
+{% assign filter = "coding_camp" %}
 {% for award in site.data.awards %}{% if filter contains award.topic %}{% include pic.html %}{% endif %}{% endfor %}
 
-
+![Programming summer camp](assets/camp.JPG)
 # Sports
 
 - Soccer (4 years, school team captain, 2-time district tournament champions)
