@@ -28,6 +28,7 @@ github_username:  ASMaksimov2007
 # Build settings
 remote_theme: BDHU/minimalist
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
 
 
