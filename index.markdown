@@ -18,35 +18,36 @@ Besides education I enjoy playing team sports and participate in competitions an
 
 ### School performance and grades:
 
-Our school uses [Russian 5-mark system](https://en.wikipedia.org/wiki/Academic_grading_in_Russia) where 5 denotes "excellent".
+Our school uses [Russian 5-mark system](https://en.wikipedia.org/wiki/Academic_grading_in_Russia) where 5 denotes "excellent" (A in Australian system).
 
 I have **top marks** in **all subjects** after each term in **all 8 completed years** of school.
+Here are final year grades for the last seven years:
 
-| Subject                           | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 |
-|-----------------------------------|------|------|------|------|------|------|------|------|
-| Russian                           |      | 5    | 5    | 5    | 5    | 5    | 5    | 5    |
-| Literature                        |      | 5    | 5    | 5    | 5    | 5    | 5    | 5    |
-| Maths                             |      | 5    | 5    | 5    | 5    | 5    |      |      |
-| Algebra                           |      |      |      |      |      |      | 5    | 5    |
-| Geometry                          |      |      |      |      |      |      | 5    | 5    |
-| Informatics                       |      | 5    | 5    | 5    | 5    | 5    | 5    | 5    |
-| World history                     |      |      |      |      | 5    | 5    | 5    | 5    |
-| Social science                    |      |      |      |      |      |      | 5    | 5    |
-| Geography                         |      |      |      |      | 5    | 5    | 5    | 5    |
-| Biology                           |      |      |      |      |      | 5    | 5    | 5    |
-| Physics                           |      |      |      |      |      |      | 5    | 5    |
-| Chemistry                         |      |      |      |      |      |      | 5    | 5    |
-| English                           |      | 5    | 5    | 5    | 5    | 5    | 5    | 5    |
-| Arts                              |      | 5    | 5    | 5    | 5    | 5    |      |      |
-| Music                             |      | 5    | 5    | 5    | 5    | 5    |      |      |
-| PE                                |      | 5    | 5    | 5    | 5    | 5    | 5    | 5    |
-| Nature and the World              |      | 5    | 5    | 5    |      |      |      |      |
-| Choreography                      |      | 5    | 5    | 5    |      |      |      |      |
-| Natural sciences                  |      |      |      |      | 5    | 5    |      |      |
-| French                            |      |      |      |      |      | 5    | 5    | 5    |
-| Life safety                       |      |      |      |      |      |      | 5    |      |
-| World arts history                |      |      |      |      |      |      | 5    |      |
-| Probability theory and statistics |      |      |      |      |      |      | 5    | 5    |
+| Subject                           | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 |
+|-----------------------------------|------|------|------|------|------|------|------|
+| Maths                             | A    | A    | A    | A    | A    |      |      |
+| Algebra                           |      |      |      |      |      | A    | A    |
+| Geometry                          |      |      |      |      |      | A    | A    |
+| Informatics                       | A    | A    | A    | A    | A    | A    | A    |
+| Probability theory and statistics |      |      |      |      |      | A    | A    |
+| Russian language                  | A    | A    | A    | A    | A    | A    | A    |
+| Russian literature                | A    | A    | A    | A    | A    | A    | A    |
+| English language                  | A    | A    | A    | A    | A    | A    | A    |
+| World history                     |      |      |      | A    | A    | A    | A    |
+| Social sciences                   |      |      |      |      |      | A    | A    |
+| Geography                         |      |      |      | A    | A    | A    | A    |
+| Biology                           |      |      |      |      | A    | A    | A    |
+| Physics                           |      |      |      |      |      | A    | A    |
+| Chemistry                         |      |      |      |      |      | A    | A    |
+| Arts                              | A    | A    | A    | A    | A    |      |      |
+| Music                             | A    | A    | A    | A    | A    |      |      |
+| PE                                | A    | A    | A    | A    | A    | A    | A    |
+| Nature and the World              | A    | A    | A    |      |      |      |      |
+| Choreography                      | A    | A    | A    |      |      |      |      |
+| Natural sciences                  |      |      |      | A    | A    |      |      |
+| French                            |      |      |      |      | A    | A    | A    |
+| Life safety                       |      |      |      |      |      | A    |      |
+| World arts history                |      |      |      |      |      | A    |      |
 
 I was nominated for a **"School Star" award** four times in a row, from 5th to 8th grade. It is an award given to three people in a class consisting of about 30 students.
 
@@ -126,12 +127,14 @@ I have some another cool projects written in Python, some of them are on my [Git
 
 ### Programming awards and diplomas:
 
-I have been selected to 4 different summer school courses of olympiad programming in 2022, each one with entry exam. I successfully completed all these schools with excellent and good marks.
+In the summer of 2022 I have been selected to 4 different summer school courses of olympiad programming, each one with entry exam:
 
 - [Ministry of Education camp for competitive programming](https://inf.mosolymp.ru/)
 - [MIPT University summer camp](https://it-edu.com/mipt-school/)
 - [NlogN camp](https://nlogn.info/camp)
 - [SIS (Summer Informatics School)](https://lksh.ru/)
+
+I successfully completed all these schools with excellent and good marks.
 
 {% assign filter = "coding_camp" %}
 {% for award in site.data.awards %}{% if filter contains award.topic %}{% include pic.html %}{% endif %}{% endfor %}
