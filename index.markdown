@@ -122,7 +122,7 @@ Of programming languages I prefer Python and C++. I can teach others Scratch and
 
 I am familiar with many microcontrollers, such as Arduino and Raspberry Pi. I've made a local system tesing server using Fedora OS.
 
-I have some another cool projects written in Python, some of them are on my [GitHub](https://github.com/ASMaksimov2007).
+I have some another cool projects written in Python, some of them are on my [GitHub](https://github.com/maleksware).
 
 ### Programming awards and diplomas:
 

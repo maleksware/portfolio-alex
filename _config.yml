@@ -22,8 +22,8 @@ title: Aleksander Maksimov
 description: ""
 logo: assets/profile-photo.jpg
 baseurl: "/portfolio-alex/" # the subpath of your site, e.g. /blog
-url: "https://ASMaksimov2007.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  ASMaksimov2007
+url: "https://maleksware.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  maleksware
 
 # Build settings
 remote_theme: BDHU/minimalist
